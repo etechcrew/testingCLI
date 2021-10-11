@@ -1,0 +1,7 @@
+{
+  "name": "Foodlicious",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
